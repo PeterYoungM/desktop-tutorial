@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T13:04:40.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Hx5482I6AB0XMT1qL87n" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T13:06:36.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="LSCF-7f_0SyJmsO_mMXj" version="15.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1332" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,10 +48,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iwafFMgcQKDF7Cw_rMB4-0" value="Lighting&lt;br&gt;Photography/videography&lt;br&gt;Entertainment(MC, Music,Bands,Dj)&lt;br&gt;Venues&lt;br&gt;Tents&lt;br&gt;Chairs&lt;br&gt;Decorations&lt;br&gt;Catering&lt;br&gt;Transport&lt;br&gt;Event Security" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iwafFMgcQKDF7Cw_rMB4-0" value="Lighting&lt;br&gt;Photography/videography&lt;br&gt;Entertainment(MC, Music,Bands,Dj)&lt;br&gt;Venues&lt;br&gt;Tents&lt;br&gt;Chairs&lt;br&gt;Decorations&lt;br&gt;Catering&lt;br&gt;Transport&lt;br&gt;Event Security" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="30" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="iwafFMgcQKDF7Cw_rMB4-1" value="Events" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iwafFMgcQKDF7Cw_rMB4-1" value="Events" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="635" y="10" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
